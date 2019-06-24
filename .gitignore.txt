@@ -1,2 +1,0 @@
-boat-types-recognition
-.ipynb_checkpoints
